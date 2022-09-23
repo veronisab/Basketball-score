@@ -1,4 +1,6 @@
-# co2884da9bda58ce0a00e6f4d
+# Basketball Score JS project on Scrimba Frontend Career Path
+- [Live app](https://veronisab.github.io/basketball-score)
+
 
 ## About Scrimba
 
